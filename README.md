@@ -2,7 +2,7 @@
 
 ## Adventure Game
 **SAMPLE OUTPUT**
-(‪C:\Users\Admin\Downloads\Adventure Game v1.gif)
+(‪/Sample Output/Adventure Game v1.gif)
 
 ## Hangman
 
