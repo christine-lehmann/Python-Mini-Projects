@@ -2,7 +2,7 @@
 
 ## Adventure Game
 **SAMPLE OUTPUT**
-(‪/Sample Output/Adventure Game v1.gif)
+(‪https://github.com/christine-lehmann/Python-Mini-Projects/blob/main/Sample%20Output/Adventure%20Game%20v1.gif?raw=true)
 
 ## Hangman
 
