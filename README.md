@@ -1,7 +1,7 @@
 # Python Mini Projects
 
 ## Adventure Game
-
+__SAMPLE OUTPUT__
 
 ## Hangman
 
