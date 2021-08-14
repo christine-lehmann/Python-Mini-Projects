@@ -1,8 +1,8 @@
 # Python Mini Projects
 
 ## Adventure Game
-**SAMPLE OUTPUT**
-![Adventure Game v1 ](Sample Output/Adventure Game v1.gif)
+
+![Adventure Game v1](https://raw.githubusercontent.com/christine-lehmann/Python-Mini-Projects/main/images/Adventure%20Game%20v1.gif?token=APKSPOP23MHF3XRUJSYBLUDBEDL2W)
 
 ## Hangman
 
