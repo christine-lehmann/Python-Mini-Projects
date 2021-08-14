@@ -1,7 +1,8 @@
 # Python Mini Projects
 
 ## Adventure Game
-__SAMPLE OUTPUT__
+**SAMPLE OUTPUT**
+(‪C:\Users\Admin\Downloads\Adventure Game v1.gif)
 
 ## Hangman
 
