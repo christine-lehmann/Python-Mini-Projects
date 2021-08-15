@@ -12,6 +12,8 @@
 
 
 ## Number Guessing Game
+![Number Guessing Game](https://raw.githubusercontent.com/christine-lehmann/Python-Mini-Projects/main/images/number%20guess.gif?token=APKSPONOJZZVEKW6X4JONSDBEGSOU)
+
 
 ## Rock Paper Scissors
 
