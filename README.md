@@ -5,11 +5,10 @@
 <a href="https://open.vscode.dev/christine-lehmann/Python-Mini-Projects"><img src="https://open.vscode.dev/badges/open-in-vscode.svg" alt="Open in Visual Studio Code"></a> 
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/Made_in_PyCharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="Open in PyCharm"></a>
 <a href="https://github.com/christine-lehmann"><img src="https://img.shields.io/badge/maintainer-christine-FF2A00?label=maintainer&logo=Github" alt="Maintainer"></a>
-![Open in Replit](https://img.shields.io/github/milestones/all/christine-lehmann/Python-Mini-Projects?label=Open%20in%20Replit&logo=replit&logoColor=00308F)
-<a href="https://github.com/christine-lehmann/Python-Mini-Projects/graphs/commit-activity"><img"https://img.shields.io/github/last-commit/christine-lehmann/Python-Mini-Projects?style=flat" alt="Last Commit"></a>
-
- 
- ![GitHub last commit](https://img.shields.io/github/last-commit/christine-lehmann/Python-Mini-Projects?style=flat)  ![Github commit activity](https://img.shields.io/github/commit-activity/m/christine-lehmann/Python-Mini-Projects?color=006666&style=flat) ![GitHub pull requests by-label](https://img.shields.io/github/issues-pr/christine-lehmann/Python-Mini-Projects/pull%20request?label=pull%20request&color=FFD500) ![GitHub issues by-label](https://img.shields.io/github/issues/christine-lehmann/Python-Mini-Projects/issues?color=FFD500&label=issues)  <p style="color:blue;font-size:10px;">This is demo text</p>
+<a href="https://replit.com/@ChristineCion/Python-Mini-Projects"><img src="https://img.shields.io/badge/Open_in_Replit-143?style=flat&logo=replit&logoColor=FFFFFF&color=00308F&labelColor=black"></a>
+ <a href="https://github.com/christine-lehmann/Python-Mini-Projects/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/christine-lehmann/Python-Mini-Projects?style=flat" alt="Last Commit"></a></br>
+<a href="https://github.com/christine-lehmann/Python-Mini-Projects/pulse"><img src="https://img.shields.io/github/commit-activity/m/christine-lehmann/Python-Mini-Projects?color=006666&style=flat" alt="Commit Activity"></a> 
+![GitHub pull requests by-label](https://img.shields.io/github/issues-pr/christine-lehmann/Python-Mini-Projects/pull%20request?label=pull%20request&color=FFD500) ![GitHub issues by-label](https://img.shields.io/github/issues/christine-lehmann/Python-Mini-Projects/issues?color=FFD500&label=issues)  <p>This is demo text</p></div>
  
 
  
