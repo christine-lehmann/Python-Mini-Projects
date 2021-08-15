@@ -18,3 +18,4 @@
 ## Rock Paper Scissors
 
 ## Simple Word Guessing Game
+![Simple Guessing Game](https://raw.githubusercontent.com/christine-lehmann/Python-Mini-Projects/main/images/simple.gif?token=APKSPOPXS6W27DOOAM7NX6LBEGTM6)
