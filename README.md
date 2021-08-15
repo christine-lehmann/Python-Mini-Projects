@@ -6,6 +6,8 @@
 ## Hangman
 
 ## Programming Quiz
+![Quiz](https://raw.githubusercontent.com/christine-lehmann/Python-Mini-Projects/main/images/quiz.gif)
+
 
 ## Bunny Mad Lib
 ![Funny Mad Lib](https://raw.githubusercontent.com/christine-lehmann/Python-Mini-Projects/main/images/mad%20lib.gif?token=APKSPOJNQQAKXUK25BF3NVTBEGRUO)
