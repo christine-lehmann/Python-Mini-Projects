@@ -18,8 +18,6 @@
  
 ## 
 ## Adventure Game 
-<!--![Adventure Game v1](https://raw.githubusercontent.com/christine-lehmann/Python-Mini-Projects/main/images/Adventure%20Game%20v1.gif?token=APKSPOP23MHF3XRUJSYBLUDBEDL2W)-->
-<!--<img src="https://raw.githubusercontent.com/christine-lehmann/Python-Mini-Projects/main/images/Adventure%20Game%20v1.gif?token=APKSPOP23MHF3XRUJSYBLUDBEDL2W" class="center">-->
 <p align="center">
   <img src="https://github.com/christine-lehmann/Python-Mini-Projects/blob/main/images/Adventure%20Game%20v1.gif?raw=true">
 </p>
