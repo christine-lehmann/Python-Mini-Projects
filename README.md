@@ -1,5 +1,5 @@
 <!--# Python Mini Projects-->
-# <div align="center"> :video_game:Python Mini Projects [![GitHub repo size download](https://img.shields.io/github/download/christine-lehmann/Python-Mini-Projects?color=lightgrey)](https://codeload.github.com/christine-lehmann/Python-Mini-Projects/zip/refs/heads/main)    </div> 
+# <div align="center"> :video_game:Python Mini Projects [![GitHub repo size download](https://img.shields.io/github/repo-size/christine-lehmann/Python-Mini-Projects?color=lightgrey)](https://codeload.github.com/christine-lehmann/Python-Mini-Projects/zip/refs/heads/main)    </div> 
 
 <div align="center">
  
