@@ -9,7 +9,7 @@
 <a href="https://github.com/christine-lehmann"><img src="https://img.shields.io/badge/maintainer-christine-FF2A00?label=maintainer&logo=Github" alt="Maintainer"></a>
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/Created_in_PyCharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="Open PyCharm"></a> </br>
  <a href="https://github.com/christine-lehmann/Python-Mini-Projects/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/christine-lehmann/Python-Mini-Projects?style=flat" alt="Last Commit"></a>
-<a href="https://github.com/christine-lehmann/Python-Mini-Projects/pulse"><img src="https://img.shields.io/github/commit-activity/m/christine-lehmann/Python-Mini-Projects?" alt="Commit Activity"></a> 
+<a href="https://github.com/christine-lehmann/Python-Mini-Projects/pulse"><img src="https://img.shields.io/github/commit-activity/m/christine-lehmann/Python-Mini-Projects?color=006666" alt="Commit Activity"></a> 
 <a href="https://github.com/christine-lehmann/Python-Mini-Projects/pulls"><img src="https://img.shields.io/github/issues-pr/christine-lehmann/Python-Mini-Projects/pull%20request?label=pull%20request&color=FFD500" alt="Pull Request"></a> 
 <a href="https://github.com/christine-lehmann/Python-Mini-Projects/issues"><img src="https://img.shields.io/github/issues/christine-lehmann/Python-Mini-Projects/issues?color=FFD500&label=issues" alt="Issues"></a> 
 <p>This is demo text</p></div>
