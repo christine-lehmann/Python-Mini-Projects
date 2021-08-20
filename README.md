@@ -16,25 +16,67 @@
  
 
  
-## 
-## Adventure Game 
+<!--<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;margin:0px auto;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s7vo{background-color:#f9f9f9;border-color:inherit;font-family:"Comic Sans MS", cursive, sans-serif !important;;
+  text-align:right;vertical-align:top}
+.tg .tg-cl9f{background-color:#f9f9f9;border-color:inherit;font-family:"Comic Sans MS", cursive, sans-serif !important;;
+  text-align:center;vertical-align:top}
+.tg .tg-biwy{border-color:inherit;font-family:"Comic Sans MS", cursive, sans-serif !important;;text-align:center;vertical-align:top}
+.tg .tg-w4gq{border-color:#000000;font-family:"Comic Sans MS", cursive, sans-serif !important;;text-align:center;vertical-align:top}
+.tg .tg-6c5j{background-color:#f9f9f9;border-color:inherit;color:#000000;
+  font-family:"Comic Sans MS", cursive, sans-serif !important;;text-align:center;vertical-align:top}
+.tg .tg-kt89{font-family:"Comic Sans MS", cursive, sans-serif !important;;text-align:center;vertical-align:top}
+.tg .tg-vbh7{border-color:inherit;font-family:"Comic Sans MS", cursive, sans-serif !important;;text-align:right;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>-->
 
-
-## Hangman
-
-## Programming Quiz
-
-
-
-## Bunny Mad Lib
-
-
-
-## Number Guessing Game
-
-
-
-## Rock Paper Scissors
-
-
-## Simple Word Guessing Game
+<div class="tg-wrap"><table class="tg">
+<thead>
+  <tr>
+    <th class="tg-w4gq">No.</th>
+    <th class="tg-kt89">Title</th>
+    <th class="tg-biwy">Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6c5j">01</td>
+    <td class="tg-cl9f">Adventure Game</td>
+    <td class="tg-s7vo">A Text-Based Adventure Game <br>is a type of game in which a player has to <br>make choices in every step of the game.<br>The users have options to handle various situations as they <br>arrive with choices taken by the user in the form of inputs.</td>
+  </tr>
+  <tr>
+    <td class="tg-biwy">02</td>
+    <td class="tg-biwy">Hangman</td>
+    <td class="tg-vbh7">Hangman is a guessing game in which the objective of <br>the player is to find out the hidden word.<br>Every incorrect guess leads to the <br>decrement of the chances left for the player.</td>
+  </tr>
+  <tr>
+    <td class="tg-cl9f">03</td>
+    <td class="tg-cl9f">Programming Quiz<br><br><br></td>
+    <td class="tg-s7vo">The Programming Quiz game asks the player <br>questions about programming. <br>At the end of the game, the program will reveal the player’s <br>final score and save to the leaderboard.</td>
+  </tr>
+  <tr>
+    <td class="tg-biwy">04</td>
+    <td class="tg-biwy">Bunny Mad Lib</td>
+    <td class="tg-vbh7">Mad libs generator is a fun game <br>that is usually played by kids. <br>In this python game user has to enter substitutes <br>for blanks in the story without knowing the story. <br>It will be fun to read aloud the stories after filling the blanks.</td>
+  </tr>
+  <tr>
+    <td class="tg-cl9f">05</td>
+    <td class="tg-cl9f">Number Guessing Game</td>
+    <td class="tg-s7vo">In this Number Guessing Game, the program uses import random <br>then the user has to guess the correct number within the selected range.</td>
+  </tr>
+  <tr>
+    <td class="tg-biwy">06</td>
+    <td class="tg-biwy">Rock, Paper, Scissors</td>
+    <td class="tg-vbh7">In this game, user gets the first chance to<br>pick the option among Rock, paper and scissor. <br>After that computer select from remaining two choices(randomly).</td>
+  </tr>
+  <tr>
+    <td class="tg-cl9f">07</td>
+    <td class="tg-cl9f">Simple Guessing Game</td>
+    <td class="tg-s7vo">Simple Guessing Game is a single-player game where goal <br>is to guess a word from a the given blank spaces. <br>You need to guess correctly before your chances reaches zero.</td>
+  </tr>
+</tbody>
+</table></div>
