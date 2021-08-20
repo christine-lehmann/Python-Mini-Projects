@@ -51,32 +51,32 @@
   </tr>
    <tr>
     <td class="tg-biwy">04</td>
-    <td class="tg-biwy">Bunny Mad Lib</td>
+    <td class="tg-biwy"><a href="https://github.com/christine-lehmann/Python-Mini-Projects/tree/main/Bunny%20Mad%20Lib">Bunny Mad Lib</a></td>
     <td class="tg-vbh7">Mad libs generator is a fun game <br>that is usually played by kids. <br>In this python game user has to enter substitutes <br>for blanks in the story without knowing the story. <br>It will be fun to read aloud the stories after filling the blanks.</td>
   </tr>
   <tr>
     <td class="tg-biwy">02</td>
-    <td class="tg-biwy">Hangman</td>
+   <td class="tg-biwy"><a href="https://github.com/christine-lehmann/Python-Mini-Projects/tree/main/Hangman">Hangman</a></td>
     <td class="tg-vbh7">Hangman is a guessing game in which the objective of <br>the player is to find out the hidden word.<br>Every incorrect guess leads to the <br>decrement of the chances left for the player.</td>
   </tr>
-  <tr>
-    <td class="tg-cl9f">03</td>
-    <td class="tg-cl9f">Programming Quiz<br><br><br></td>
-    <td class="tg-s7vo">The Programming Quiz game asks the player <br>questions about programming. <br>At the end of the game, the program will reveal the player’s <br>final score and save to the leaderboard.</td>
-  </tr>
-  <tr>
+   <tr>
     <td class="tg-cl9f">05</td>
-    <td class="tg-cl9f">Number Guessing Game</td>
+    <td class="tg-cl9f"><a href="https://github.com/christine-lehmann/Python-Mini-Projects/tree/main/Number%20Guessing%20Game">Number Guessing Game</a></td>
     <td class="tg-s7vo">In this Number Guessing Game, the program uses import random <br>then the user has to guess the correct number within the selected range.</td>
   </tr>
   <tr>
+    <td class="tg-cl9f">03</td>
+   <td class="tg-cl9f"><a href="https://github.com/christine-lehmann/Python-Mini-Projects/tree/main/Programming%20Quiz">Programming Quiz<br><br><br></a></td>
+    <td class="tg-s7vo">The Programming Quiz game asks the player <br>questions about programming. <br>At the end of the game, the program will reveal the player’s <br>final score and save to the leaderboard.</td>
+  </tr>
+  <tr>
     <td class="tg-biwy">06</td>
-    <td class="tg-biwy">Rock, Paper, Scissors</td>
+   <td class="tg-biwy"><a href="https://github.com/christine-lehmann/Python-Mini-Projects/tree/main/Rock%20Paper%20Scissors">Rock, Paper, Scissors</a></td>
     <td class="tg-vbh7">In this game, user gets the first chance to<br>pick the option among Rock, paper and scissor. <br>After that computer select from remaining two choices(randomly).</td>
   </tr>
   <tr>
     <td class="tg-cl9f">07</td>
-    <td class="tg-cl9f">Simple Guessing Game</td>
+   <td class="tg-cl9f"><a href="https://github.com/christine-lehmann/Python-Mini-Projects/tree/main/Simple%20Guessing%20Game">Simple Guessing Game</a></td>
     <td class="tg-s7vo">Simple Guessing Game is a single-player game where goal <br>is to guess a word from a the given blank spaces. <br>You need to guess correctly before your chances reaches zero.</td>
   </tr>
 </tbody>
