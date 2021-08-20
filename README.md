@@ -12,10 +12,10 @@
 <a href="https://github.com/christine-lehmann/Python-Mini-Projects/pulse"><img src="https://img.shields.io/github/commit-activity/m/christine-lehmann/Python-Mini-Projects?color=006666" alt="Commit Activity"></a> 
 <a href="https://github.com/christine-lehmann/Python-Mini-Projects/pulls"><img src="https://img.shields.io/github/issues-pr/christine-lehmann/Python-Mini-Projects/pull%20request?label=pull%20request&color=FFD500" alt="Pull Request"></a> 
 <a href="https://github.com/christine-lehmann/Python-Mini-Projects/issues"><img src="https://img.shields.io/github/issues/christine-lehmann/Python-Mini-Projects/issues?color=FFD500&label=issues" alt="Issues"></a> 
-<p>This is demo text</p></div>
+<p>Python Mini Projects is for beginners. This project was created in PyCharm and Visual Studio Code, it can also access in Replit.  </p></div>
  
 
- 
+## Python Mini Projects
 <!--<style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;margin:0px auto;}
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
@@ -35,6 +35,7 @@
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>-->
 
 <div class="tg-wrap"><table class="tg">
+ <p style="center"> This contains all the mini-game-projects that I've created in python.</p>
 <thead>
   <tr>
     <th class="tg-w4gq">No.</th>
@@ -45,8 +46,13 @@
 <tbody>
   <tr>
     <td class="tg-6c5j">01</td>
-    <td class="tg-cl9f">Adventure Game</td>
+    <td class="tg-cl9f"><a href="https://github.com/christine-lehmann/Python-Mini-Projects/tree/main/Adventure%20Game">Adventure Game </a></td>
     <td class="tg-s7vo">A Text-Based Adventure Game <br>is a type of game in which a player has to <br>make choices in every step of the game.<br>The users have options to handle various situations as they <br>arrive with choices taken by the user in the form of inputs.</td>
+  </tr>
+   <tr>
+    <td class="tg-biwy">04</td>
+    <td class="tg-biwy">Bunny Mad Lib</td>
+    <td class="tg-vbh7">Mad libs generator is a fun game <br>that is usually played by kids. <br>In this python game user has to enter substitutes <br>for blanks in the story without knowing the story. <br>It will be fun to read aloud the stories after filling the blanks.</td>
   </tr>
   <tr>
     <td class="tg-biwy">02</td>
@@ -57,11 +63,6 @@
     <td class="tg-cl9f">03</td>
     <td class="tg-cl9f">Programming Quiz<br><br><br></td>
     <td class="tg-s7vo">The Programming Quiz game asks the player <br>questions about programming. <br>At the end of the game, the program will reveal the player’s <br>final score and save to the leaderboard.</td>
-  </tr>
-  <tr>
-    <td class="tg-biwy">04</td>
-    <td class="tg-biwy">Bunny Mad Lib</td>
-    <td class="tg-vbh7">Mad libs generator is a fun game <br>that is usually played by kids. <br>In this python game user has to enter substitutes <br>for blanks in the story without knowing the story. <br>It will be fun to read aloud the stories after filling the blanks.</td>
   </tr>
   <tr>
     <td class="tg-cl9f">05</td>
