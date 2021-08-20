@@ -16,8 +16,14 @@
  
 
 ## Python Mini Projects
-<!--<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;margin:0px auto;}
+<!--<link href="style.css" rel="stylesheet"></link> 
+<style type="text/css">
+.tg  {
+      border-collapse:collapse;
+      border-color:#ccc;
+      border-spacing:0;
+      margin:0px auto;
+ }
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
