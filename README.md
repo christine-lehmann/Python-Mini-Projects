@@ -45,7 +45,7 @@
 <thead>
   <tr>
     <th class="tg-w4gq">No.</th>
-    <th class="tg-kt89">Title</th>
+    <th class="tg-kt89">Name</th>
     <th class="tg-biwy">Description</th>
   </tr>
 </thead>
