@@ -1,6 +1,6 @@
 # Programming Quiz
 
-<p align="center">This is a demo text</p>
+<p>The Programming Quiz game asks the player questions about programming(or any related to programming). <br>At the end of the game, the program will reveal the player’s final score and save to the leaderboard.</p>
 
 ## Sample Output 
 <p align="center">
