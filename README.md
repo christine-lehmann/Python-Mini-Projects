@@ -5,7 +5,7 @@
  
 <a href="https://www.python.org/"><img src="https://forthebadge.com/images/badges/made-with-python.svg" alt="Python"></a> </br>
 <a href="https://open.vscode.dev/christine-lehmann/Python-Mini-Projects"><img src="https://open.vscode.dev/badges/open-in-vscode.svg" alt="Open in Visual Studio Code"></a> 
-<a href="https://replit.com/@ChristineCion/Python-Mini-Projects"><img src="https://img.shields.io/badge/Open_in_Replit-143?style=flat&logo=replit&logoColor=FFFFFF&color=00308F&labelColor=black"></a> 
+<a href="https://replit.com/@ChristineCion/Python-Mini-Projects-1"><img src="https://img.shields.io/badge/Open_in_Replit-143?style=flat&logo=replit&logoColor=FFFFFF&color=00308F&labelColor=black"></a> 
 <a href="https://github.com/christine-lehmann"><img src="https://img.shields.io/badge/maintainer-christine-FF2A00?label=maintainer&logo=Github" alt="Maintainer"></a>
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/Created_in_PyCharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="Open PyCharm"></a> </br>
  <a href="https://github.com/christine-lehmann/Python-Mini-Projects/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/christine-lehmann/Python-Mini-Projects?style=flat" alt="Last Commit"></a>
