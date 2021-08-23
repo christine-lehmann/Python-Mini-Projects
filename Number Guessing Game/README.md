@@ -1,5 +1,5 @@
 # Number Guessing Game
-<p align="center">This is a demo text</p>
+<p>In this Number Guessing Game, the program uses import random then the user has to guess the correct number within the selected range(Upper bound).</p>
 
 ## Sample Output
 <p align="center">
